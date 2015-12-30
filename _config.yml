@@ -1,4 +1,19 @@
-analytics: {}
+name: Brasstown Morris
+favicon: null
+layout_spectrum: 0.88682
+typography_spectrum: 1
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#c5c0a3'
@@ -7,12 +22,7 @@ color:
     - '#222b48'
     - '#ffffcf'
   brandStrength: 0
-  lightness: 0.205416
-  rhythmicContrast: 0.39832
-  saturation: 0.494402
-cta: {}
-layout_spectrum: 0.29918011859990656
-name: Brasstown Morris
-opengraph: {}
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
-typography_spectrum: 0.51012
