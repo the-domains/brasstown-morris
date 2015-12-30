@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://www.flickr.com/photos/folkschool/7940300396/'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-30T17:24:48.235Z'
-dateModified: '2015-12-30T17:24:23.081Z'
+datePublished: '2015-12-30T17:26:59.014Z'
+dateModified: '2015-12-30T17:26:51.376Z'
 author:
   - name: John C. Campbell Folk School
     url: 'https://www.flickr.com/photos/folkschool/'
@@ -28,6 +27,7 @@ publisher:
   domain: www.flickr.com
   url: 'https://www.flickr.com/'
   favicon: 'https://www.flickr.com/favicon.ico'
+url: brasstown-morris-dance/index.html
 _type: Photograph
 _context: 'http://schema.org'
 
@@ -48,4 +48,4 @@ side who have been dancing continuously at the folk school since 1983
 1996
 * Dames Rocket Northwest Clog Morris, a women's side founded in 
 2005\.
-![Brasstown Morris Teams in UK](https://farm9.staticflickr.com/8175/7940300396_43105347c4_b.jpg)
+![Brasstown Morris Teams in UK](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9271c4161904a223d45140455a55f7188fe36110.jpg)
