@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.flickr.com/photos/folkschool/7940300396/'
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-30T17:26:59.014Z'
-dateModified: '2015-12-30T17:26:51.376Z'
+datePublished: '2015-12-30T17:34:39.705Z'
+dateModified: '2015-12-30T17:34:32.303Z'
 author:
   - name: John C. Campbell Folk School
     url: 'https://www.flickr.com/photos/folkschool/'
@@ -27,7 +28,6 @@ publisher:
   domain: www.flickr.com
   url: 'https://www.flickr.com/'
   favicon: 'https://www.flickr.com/favicon.ico'
-url: brasstown-morris-dance/index.html
 _type: Photograph
 _context: 'http://schema.org'
 
