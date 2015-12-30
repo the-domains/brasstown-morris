@@ -1,31 +1,51 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.flickr.com/photos/folkschool/7940300396/'
+inLanguage: null
+starred: true
+keywords: []
+description: ''
+datePublished: '2015-12-30T17:24:48.235Z'
+dateModified: '2015-12-30T17:24:23.081Z'
 author:
   - name: John C. Campbell Folk School
     url: 'https://www.flickr.com/photos/folkschool/'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.flickr.com/'
-  name: Flickr
-  favicon: 'https://www.flickr.com/favicon.ico'
-  domain: www.flickr.com
-keywords: []
 app_links:
   - url: 'flickr://flickr.com/photos/folkschool/7940300396'
     type: ios
     app_name: Flickr
     app_store_id: '328407587'
-isBasedOnUrl: 'https://www.flickr.com/photos/folkschool/7940300396/'
-title: Brasstown Morris Teams in UK
-datePublished: '2015-12-30T06:30:39.033Z'
-dateModified: '2015-12-30T06:28:59.872Z'
+title: Brasstown Morris Dance
 sourcePath: _posts/2015-12-30-brasstown-morris-teams-in-uk.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Flickr
+  domain: www.flickr.com
+  url: 'https://www.flickr.com/'
+  favicon: 'https://www.flickr.com/favicon.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
+# Brasstown Morris Dance
+
+Brasstown Morris is comprised of three individual 
+teams, known as "sides," who perform traditional English morris dances 
+with an American flavor. We have a large and wonderful dance 
+band with accordions, fiddles, drums, recorder, bass and guitar. All 
+performers are members of the local community in the Brasstown, North Carolina area. 
+
+The three groups include:
+
+* Rural Felicity Garland Dancers, a women's 
+side who have been dancing continuously at the folk school since 1983
+* Sticks in the Mud Border Morris, a mixed side of men and women since 
+1996
+* Dames Rocket Northwest Clog Morris, a women's side founded in 
+2005\.
 ![Brasstown Morris Teams in UK](https://farm9.staticflickr.com/8175/7940300396_43105347c4_b.jpg)
