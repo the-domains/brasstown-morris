@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Brasstown Morris]]></title>
+        <description><![CDATA[Brasstown Morris]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 30 Dec 2015 06:30:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[IMG_8774 Morris Dance Performance Spring 2008]]></title>
+            <description><![CDATA[<article><h1>IMG_8774 Morris Dance Performance Spring 2008</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d52df887ded6ded89b3b75979ed68f4de8735518.jpg"></article>]]></description>
+            <link>https://www.flickr.com/photos/folkschool/2439295752/</link>
+            <guid isPermaLink="false">30b5e5f5-0992-43fb-ba3d-3f683f21dc08</guid>
+            <pubDate>Wed, 30 Dec 2015 06:30:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
