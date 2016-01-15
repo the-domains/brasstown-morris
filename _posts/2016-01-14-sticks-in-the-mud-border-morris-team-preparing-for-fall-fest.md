@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T13:36:44.576Z'
-dateModified: '2016-01-15T13:36:44.309Z'
+datePublished: '2016-01-15T13:38:57.937Z'
+dateModified: '2016-01-15T13:38:30.239Z'
 author:
   - name: joshua_j_hamilton
     url: 'https://www.instagram.com/joshua_j_hamilton'
@@ -36,6 +36,5 @@ _type: Photograph
 _context: 'http://schema.org'
 
 ---
+.
 ![Sticks in the Mud Border Morris team preparing for Fall Festival @johnccampbellfolkschool](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b54c0bf1a7d98b72358aef31a612149db3f4627a.jpg)
-
-..
