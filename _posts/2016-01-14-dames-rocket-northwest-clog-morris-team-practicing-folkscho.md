@@ -17,7 +17,7 @@ keywords:
   - dames
   - morris
 description: 'Dames Rocket Northwest Clog Morris Team practicing @FolkSchool Festival Barn #MorrisDancing #BrasstownMorrisDoc #C100'
-datePublished: '2016-01-15T13:33:54.482Z'
+datePublished: '2016-01-15T13:33:54.499Z'
 dateModified: '2016-01-15T13:33:54.366Z'
 author:
   - name: joshuajhamilton
