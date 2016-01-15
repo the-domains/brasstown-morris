@@ -7,7 +7,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-15T14:39:23.880Z'
+datePublished: '2016-01-15T14:39:23.906Z'
 dateModified: '2016-01-15T14:39:17.927Z'
 author:
   - name: John C. Campbell Folk School
