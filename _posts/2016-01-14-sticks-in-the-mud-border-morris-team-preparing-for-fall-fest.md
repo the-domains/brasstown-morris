@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/8BKyEgumhs/'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-01-15T13:36:43.825Z'
+dateModified: '2016-01-15T13:36:17.832Z'
 author:
   - name: joshua_j_hamilton
     url: 'https://www.instagram.com/joshua_j_hamilton'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=1081192806828632172'
     type: ios
@@ -19,17 +23,19 @@ app_links:
     type: android
     app_name: Instagram
     package: com.instagram.android
-isBasedOnUrl: 'https://www.instagram.com/p/8BKyEgumhs/'
-title: 'Sticks in the Mud Border Morris team preparing for Fall Festival @johnccampbellfolkschool @brasstownmorrisdoc #brasstownmorrisdoc #morrisdancing #C100 #documentary #film'
-datePublished: '2016-01-14T21:37:30.850Z'
-dateModified: '2016-01-14T21:35:30.108Z'
+title: Sticks in the Mud Border Morris team preparing for Fall Festival @johnccampbellfolkschool
 sourcePath: _posts/2016-01-14-sticks-in-the-mud-border-morris-team-preparing-for-fall-fest.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![Sticks in the Mud Border Morris team preparing for Fall Festival &commat;johnccampbellfolkschool &commat;brasstownmorrisdoc &num;brasstownmorrisdoc &num;morrisdancing &num;C100 &num;documentary &num;film](https://scontent.cdninstagram.com/hphotos-xat1/t51.2885-15/e35/11356626_514918675342697_189842795_n.jpg)
+![Sticks in the Mud Border Morris team preparing for Fall Festival @johnccampbellfolkschool](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b54c0bf1a7d98b72358aef31a612149db3f4627a.jpg)
+
+..
