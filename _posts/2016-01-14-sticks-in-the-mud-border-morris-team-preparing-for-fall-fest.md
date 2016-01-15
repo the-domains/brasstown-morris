@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T13:38:58.601Z'
-dateModified: '2016-01-15T13:38:58.511Z'
+datePublished: '2016-01-15T13:38:58.634Z'
+dateModified: '2016-01-15T13:38:58.438Z'
 author:
   - name: joshua_j_hamilton
     url: 'https://www.instagram.com/joshua_j_hamilton'
