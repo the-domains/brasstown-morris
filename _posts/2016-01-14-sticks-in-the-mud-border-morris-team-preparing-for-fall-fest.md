@@ -7,7 +7,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T13:38:57.979Z'
+datePublished: '2016-01-15T13:38:57.996Z'
 dateModified: '2016-01-15T13:38:30.239Z'
 author:
   - name: joshua_j_hamilton
