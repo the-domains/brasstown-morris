@@ -1,4 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://twitter.com/joshuajhamilton/status/650669837430202368'
+inLanguage: en
+starred: false
+keywords:
+  - morrisdancing
+  - folkschool
+  - halmsjpkpg
+  - c100
+  - brasstownmorrisdoc
+  - twitter
+  - location
+  - clog
+  - dames
+  - morris
+description: 'Dames Rocket Northwest Clog Morris Team practicing @FolkSchool Festival Barn #MorrisDancing #BrasstownMorrisDoc #C100'
+datePublished: '2016-01-15T13:33:54.366Z'
+dateModified: '2016-01-15T13:33:39.165Z'
 author:
   - name: joshuajhamilton
     url: 'http://twitter.com/joshuajhamilton'
@@ -20,36 +40,20 @@ author:
           - 166
           - 179
 related: []
-publisher:
-  url: 'http://twitter.com'
-  name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-  domain: twitter.com
-keywords:
-  - morrisdancing
-  - folkschool
-  - halmsjpkpg
-  - c100
-  - brasstownmorrisdoc
-  - twitter
-  - location
-  - clog
-  - dames
-  - morris
-description: 'Dames Rocket Northwest Clog Morris Team practicing @FolkSchool Festival Barn #MorrisDancing #BrasstownMorrisDoc #C100'
-inLanguage: en
 app_links: []
-isBasedOnUrl: 'https://twitter.com/joshuajhamilton/status/650669837430202368'
-datePublished: '2016-01-14T21:37:30.920Z'
-dateModified: '2016-01-14T21:35:44.732Z'
-title: ''
+title: Dames Rocket Northwest Clog Morris Team practicing @FolkSchool Festival Barn
 sourcePath: _posts/2016-01-14-dames-rocket-northwest-clog-morris-team-practicing-folkscho.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Twitter
+  domain: twitter.com
+  url: 'http://twitter.com'
+  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
 ---
-![Dames Rocket Northwest Clog Morris Team practicing &commat;FolkSchool Festival Barn &num;MorrisDancing &num;BrasstownMorrisDoc &num;C100](https://pbs.twimg.com/media/CQekw-YWcAAmusB.jpg:large)
+![Dames Rocket Northwest Clog Morris Team practicing @FolkSchool Festival Barn #MorrisDancing #BrasstownMorrisDoc #C100](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d7406ea021a9e9c42a2cd26d187d42b6d45b451.jpg)
+
+...
