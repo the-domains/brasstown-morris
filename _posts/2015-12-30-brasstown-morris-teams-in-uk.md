@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-15T14:39:23.906Z'
-dateModified: '2016-01-15T14:39:17.927Z'
+datePublished: '2016-01-23T15:07:25.799Z'
+dateModified: '2016-01-23T15:07:17.610Z'
 author:
   - name: John C. Campbell Folk School
     url: 'https://www.flickr.com/photos/folkschool/'
@@ -49,3 +49,5 @@ side who have been dancing continuously at the folk school since 1983
 * Dames Rocket Northwest Clog Morris, a women's side founded in 
 2005\.
 ![Brasstown Morris Teams in UK](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9271c4161904a223d45140455a55f7188fe36110.jpg)
+
+:-)
