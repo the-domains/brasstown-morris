@@ -21,10 +21,11 @@ app_links:
     package: com.instagram.android
 isBasedOnUrl: 'https://www.instagram.com/p/8BKyEgumhs/'
 title: 'Sticks in the Mud Border Morris team preparing for Fall Festival @johnccampbellfolkschool @brasstownmorrisdoc #brasstownmorrisdoc #morrisdancing #C100 #documentary #film'
-datePublished: '2016-01-17T15:52:23.830Z'
-dateModified: '2016-01-15T14:39:02.832Z'
+datePublished: '2016-05-19T14:57:15.121Z'
+dateModified: '2016-05-19T14:57:14.914Z'
 sourcePath: _posts/2016-01-17-sticks-in-the-mud-border-morris-team-preparing-for-fall-fest.md
-published: true
+description: ''
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
