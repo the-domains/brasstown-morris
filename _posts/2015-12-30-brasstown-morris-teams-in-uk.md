@@ -4,11 +4,10 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.flickr.com/photos/folkschool/7940300396/'
 inLanguage: null
-starred: true
 keywords: []
-description: ''
-datePublished: '2016-01-23T15:07:25.799Z'
-dateModified: '2016-01-23T15:07:17.610Z'
+description: "Brasstown Morris is comprised of three individual \nteams, known as “sides,” who perform traditional English morris dances \nwith an American flavor. We have a large and wonderful dance \nband with accordions, fiddles, drums, recorder, bass and guitar. All \nperformers are members of the local community in the Brasstown, North Carolina area. "
+datePublished: '2016-05-19T14:57:11.449Z'
+dateModified: '2016-05-19T14:57:10.902Z'
 author:
   - name: John C. Campbell Folk School
     url: 'https://www.flickr.com/photos/folkschool/'
@@ -21,13 +20,13 @@ app_links:
     app_store_id: '328407587'
 title: Brasstown Morris Dance
 sourcePath: _posts/2015-12-30-brasstown-morris-teams-in-uk.md
-published: true
 authors: []
 publisher:
   name: Flickr
   domain: www.flickr.com
   url: 'https://www.flickr.com/'
   favicon: 'https://www.flickr.com/favicon.ico'
+starred: false
 _type: Photograph
 _context: 'http://schema.org'
 
