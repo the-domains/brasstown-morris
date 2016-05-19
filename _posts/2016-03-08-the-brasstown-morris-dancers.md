@@ -20,7 +20,7 @@ keywords:
   - rewards
   - thanked
   - poster
-description: 'Joshua J. Hamilton is raising funds for The Brasstown Morris Dancers on Kickstarter! A documentary film about the playful, loving people in rural Brasstown, NC and their mass participation in English Morris Dancing.'
+description: ''
 inLanguage: en
 app_links:
   - url: 'ksr://www.kickstarter.com/projects/2005184895/2008883872?app_banner=1'
@@ -34,16 +34,15 @@ app_links:
     id: '596961532'
     name: Kickstarter
 isBasedOnUrl: 'https://www.kickstarter.com/projects/joshuajhamilton/the-brasstown-morris-dancers'
-title: The Brasstown Morris Dancers
-datePublished: '2016-03-08T14:46:05.324Z'
-dateModified: '2016-03-08T14:45:58.175Z'
+title: ''
+datePublished: '2016-05-19T14:57:17.287Z'
+dateModified: '2016-05-19T14:57:16.952Z'
 inFeed: true
 hasPage: false
 inNav: false
-starred: true
 authors: []
 sourcePath: _posts/2016-03-08-the-brasstown-morris-dancers.md
-published: true
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
